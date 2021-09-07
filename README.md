@@ -1,5 +1,3 @@
-
-
 # Zero-shot Voice Conversion
 - AUTOVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss. ICML,2019.
 
@@ -17,4 +15,3 @@
 # VC with Speaker Embedding
 - One-shot Voice Conversion by Separating Speaker and Content Representations with Instance Normalization
 - Pretraining Techniques for Sequence-to-Sequence Voice Conversion
-- 
