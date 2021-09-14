@@ -5,6 +5,10 @@
 - ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION
 
 
+# Many-to-Many Voice Conversion
+
+
+
 # Any-to-Any Voice Conversion
 - MULTI-SPEAKER AND MULTI-DOMAIN EMOTIONAL VOICE CONVERSION USING FACTORIZED HIERARCHICAL VARIATIONAL AUTOENCODER
 - Investigation of using disentangled and interpretable representations for one-shot cross-lingual voice conversion
